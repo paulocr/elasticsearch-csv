@@ -1,0 +1,12 @@
+aggs-matrix-stats
+analysis-common
+ingest-common
+lang-expression
+lang-mustache
+lang-painless
+parent-join
+percolator
+reindex
+repository-url
+transport-netty4
+tribe

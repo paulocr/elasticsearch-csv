@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+X-Compile-Elasticsearch-Version: 6.0.0-beta2
+Implementation-Title: org.elasticsearch.plugin#transport-netty4;6.0.0-
+ beta2
+Module-Origin: git@github.com:elastic/elasticsearch.git
+Build-Date: 2017-08-29T01:54:40.252Z
+Implementation-Version: 6.0.0-beta2
+Built-By: vagrant
+Change: 23ffa4f
+Module-Source: /modules/transport-netty4
+Branch: 23ffa4fdc2e2a6653171ba7c0fa96ff06bc8ca2c
+Built-Status: integration
+Gradle-Version: 3.3
+Built-OS: Linux
+X-Compile-Target-JDK: 1.8
+X-Compile-Elasticsearch-Snapshot: false
+X-Compile-Lucene-Version: 7.0.0-snapshot-a128fcb
+X-Compile-Source-JDK: 1.8
+Created-By: 1.8.0_131-8u131-b11-2ubuntu1.16.04.3-b11 (Oracle Corporati
+ on)
+Build-Java-Version: 1.8
+
